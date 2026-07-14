@@ -1,0 +1,180 @@
+{
+  "library": "ocarina1",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/ocarina1",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/ocarina1-opus-48",
+  "branch": "main",
+  "fileCount": 13,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/",
+  "files": [
+    {
+      "file": "A5_01.opus",
+      "name": "A5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/A5_01.opus",
+      "size": 39150,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A6.opus",
+      "name": "A6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/A6.opus",
+      "size": 40839,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As5_01.opus",
+      "name": "As5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/As5_01.opus",
+      "size": 33919,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B5_01.opus",
+      "name": "B5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/B5_01.opus",
+      "size": 15990,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs5_01.opus",
+      "name": "Cs5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/Cs5_01.opus",
+      "size": 24972,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_01.opus",
+      "name": "D5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/D5_01.opus",
+      "size": 12788,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5_01.opus",
+      "name": "E5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/E5_01.opus",
+      "size": 10838,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E6.opus",
+      "name": "E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/E6.opus",
+      "size": 11853,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F5_01.opus",
+      "name": "F5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/F5_01.opus",
+      "size": 37170,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4.opus",
+      "name": "Fs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/Fs4.opus",
+      "size": 7420,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5_01.opus",
+      "name": "Fs5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/Fs5_01.opus",
+      "size": 28730,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G5_01.opus",
+      "name": "G5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/G5_01.opus",
+      "size": 26772,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs5_01.opus",
+      "name": "Gs5_01.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ocarina1-opus-48/main/Gs5_01.opus",
+      "size": 29118,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "74": [
+      "D5_01.opus"
+    ],
+    "76": [
+      "E5_01.opus"
+    ],
+    "77": [
+      "F5_01.opus"
+    ],
+    "79": [
+      "G5_01.opus"
+    ],
+    "81": [
+      "A5_01.opus"
+    ],
+    "83": [
+      "B5_01.opus"
+    ],
+    "88": [
+      "E6.opus"
+    ],
+    "93": [
+      "A6.opus"
+    ]
+  }
+}
